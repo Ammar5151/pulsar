@@ -1,4 +1,6 @@
----
+Ammar Salih Ibrahim
+Baslerstrasse 138
+8048 Zürich---
 id: administration-upgrade
 title: Upgrade Guide
 sidebar_label: "Upgrade"
